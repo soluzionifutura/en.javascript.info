@@ -1,0 +1,14 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.1.0"
+  }
+}
